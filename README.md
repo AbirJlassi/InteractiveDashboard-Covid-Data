@@ -9,6 +9,7 @@ This project provides interactive visualizations of global COVID-19 statistics t
 
 ### Features
 Main Pages:
+
 🌍 Vue Globale (Overview): Displays cases, deaths, and recoveries by continent
 
 📊 Évolution (Timeline): Tracks monthly progression of cases and deaths worldwide
