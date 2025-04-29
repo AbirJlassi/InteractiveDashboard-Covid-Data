@@ -10,15 +10,15 @@ This project provides interactive visualizations of global COVID-19 statistics t
 ### Features
 Main Pages:
 
-🌍 Vue Globale (Overview): Displays cases, deaths, and recoveries by continent
+- Vue Globale (Overview): Displays cases, deaths, and recoveries by continent
 
-📊 Évolution (Timeline): Tracks monthly progression of cases and deaths worldwide
+-  Évolution (Timeline): Tracks monthly progression of cases and deaths worldwide
 
-🗺️ Carte (Map): Interactive geographical visualization of virus spread
+- Carte (Map): Interactive geographical visualization of virus spread
 
-🥧 Stats par Pays (Country Statistics): Compares deaths and recoveries between countries
+- Stats par Pays (Country Statistics): Compares deaths and recoveries between countries
 
-🔍 Recherche personnalisée (Custom Search): Apply dynamic filters for personalized data exploration
+- Recherche personnalisée (Custom Search): Apply dynamic filters for personalized data exploration
 
 ### Technologies Used
 - D3.js (v7) for dynamic visualizations
